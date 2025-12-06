@@ -259,5 +259,6 @@ export const StoragePrompts: React.FC<StoragePromptsProps> = ({
           </div>
         </div>
       </div>
-    );
-  };
+    </div>
+  );
+};
